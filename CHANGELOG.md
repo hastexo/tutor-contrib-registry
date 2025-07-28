@@ -1,4 +1,4 @@
-Unreleased
+Version 2.2.0 (2025-07-28)
 ----------------------------
 
 * Support Tutor 20 and Open edX Teak.
